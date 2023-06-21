@@ -1,1 +1,1 @@
-From index.docker.io/openfunction/buildpacks-java18-build:v1
+From docker.io/openfunction/buildpacks-java18-build:v1
